@@ -205,7 +205,7 @@ plt.show()
 
 ![5 3](https://user-images.githubusercontent.com/75234965/169954088-18899abc-3508-4bb2-9364-36ccb78891cf.PNG)
 
-![5 4](https://user-images.githubusercontent.com/75234965/169954257-c479c209-4b3a-495d-9ac3-0e5596f82f25.PNG)
+![5 4](https://user-images.githubusercontent.com/75234965/169992164-58e42a26-f587-46c9-8b78-172b1a8dacfc.PNG)
 
 The larger the state space, the longer it take to complete the search.
 
